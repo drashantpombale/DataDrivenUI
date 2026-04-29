@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\hubworldmmo\\plugins\\developer\\datadrivenui\\source\\datadrivenui\\private\\datadrivenui.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\hubworldmmo\\intermediate\\build\\win64\\x64\\owshubworldmmoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\hubworldmmo\\plugins\\developer\\datadrivenui\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\datadrivenui\\definitions.datadrivenui.h",
+            "d:\\unrealprojects\\hubworldmmo\\plugins\\developer\\datadrivenui\\source\\datadrivenui\\public\\datadrivenui.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,46 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DataDrivenUI.cpp.obj": [
+			"ArrayDataCarrier.gen.cpp.obj",
+			"BaseDataCarrier.gen.cpp.obj",
+			"BaseSubView.gen.cpp.obj",
+			"BaseUIModel.gen.cpp.obj",
+			"BaseUIView.gen.cpp.obj",
+			"BaseUIViewModel.gen.cpp.obj",
+			"BoolDataCarrier.gen.cpp.obj",
+			"CarrierViewMapping.gen.cpp.obj",
+			"DataCarrier.gen.cpp.obj",
+			"DataDrivenUI.init.gen.cpp.obj",
+			"FloatDataCarrier.gen.cpp.obj",
+			"IntDataCarrier.gen.cpp.obj",
+			"StringDataCarrier.gen.cpp.obj",
+			"UIFactory.gen.cpp.obj",
+			"UIModel.gen.cpp.obj",
+			"UIView.gen.cpp.obj",
+			"UIViewModel.gen.cpp.obj",
+			"UViewModelFactory.gen.cpp.obj",
+			"ViewModelMapping.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"BaseSubView.cpp.obj",
+			"CarrierViewMapping.cpp.obj",
+			"ArrayDataCarrier.cpp.obj",
+			"BaseDataCarrier.cpp.obj",
+			"BoolDataCarrier.cpp.obj",
+			"FloatDataCarrier.cpp.obj",
+			"IntDataCarrier.cpp.obj",
+			"StringDataCarrier.cpp.obj",
+			"DataDrivenUI.cpp.obj",
+			"DataCarrier.cpp.obj",
+			"UIFactory.cpp.obj",
+			"UIModel.cpp.obj",
+			"UIView.cpp.obj",
+			"UIViewModel.cpp.obj",
+			"BaseUIModel.cpp.obj",
+			"UViewModelFactory.cpp.obj",
+			"ViewModelMapping.cpp.obj",
+			"BaseUIViewModel.cpp.obj",
+			"BaseUIView.cpp.obj"
+		]
+	}
+}

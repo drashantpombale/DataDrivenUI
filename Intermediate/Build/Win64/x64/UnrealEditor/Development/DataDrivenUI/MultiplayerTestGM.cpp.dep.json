@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\hubworldmmo\\plugins\\developer\\datadrivenui\\source\\datadrivenui\\private\\examples\\multiplayertestgm.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\hubworldmmo\\intermediate\\build\\win64\\x64\\owshubworldmmoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\hubworldmmo\\plugins\\developer\\datadrivenui\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\datadrivenui\\definitions.datadrivenui.h",
+            "d:\\unrealprojects\\hubworldmmo\\plugins\\developer\\datadrivenui\\source\\datadrivenui\\public\\examples\\multiplayertestgm.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\unrealprojects\\hubworldmmo\\plugins\\developer\\datadrivenui\\intermediate\\build\\win64\\unrealeditor\\inc\\datadrivenui\\uht\\multiplayertestgm.generated.h",
+            "d:\\unrealprojects\\hubworldmmo\\plugins\\developer\\datadrivenui\\source\\datadrivenui\\public\\examples\\multiplayertestpc.h",
+            "d:\\unrealprojects\\hubworldmmo\\plugins\\developer\\datadrivenui\\intermediate\\build\\win64\\unrealeditor\\inc\\datadrivenui\\uht\\multiplayertestpc.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

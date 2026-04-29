@@ -1,0 +1,94 @@
+{
+    "version": "2.1.0",
+    "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+    "runs": [
+        {
+            "results": [
+                {
+                    "ruleId": "C4996",
+                    "message": {
+                        "text": "'Cast::FStaticWarningMsg_340::condition': Attempting to use Cast<> on types that are not related"
+                    },
+                    "analysisTarget": {
+                        "uri": "file:///D:/UnrealProjects/DataUIPlugin/Plugins/DataDrivenUI/Source/DataDrivenUI/Private/Views/BaseUIView.cpp"
+                    },
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "file:///D:/Unreal Engine/UE_5.5/Engine/Source/Runtime/CoreUObject/Public/Templates/Casts.h"
+                                },
+                                "region": {
+                                    "startLine": 340,
+                                    "startColumn": 3
+                                }
+                            }
+                        }
+                    ],
+                    "relatedLocations": [
+                        {
+                            "id": 0,
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "file:///D:/Unreal Engine/UE_5.5/Engine/Source/Runtime/CoreUObject/Public/Templates/Casts.h"
+                                },
+                                "region": {
+                                    "startLine": 340,
+                                    "startColumn": 3
+                                }
+                            },
+                            "message": {
+                                "text": "the template instantiation context (the oldest one first) is"
+                            }
+                        },
+                        {
+                            "id": 1,
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "file:///D:/UnrealProjects/DataUIPlugin/Plugins/DataDrivenUI/Source/DataDrivenUI/Private/Views/BaseUIView.cpp"
+                                },
+                                "region": {
+                                    "startLine": 9,
+                                    "startColumn": 42
+                                }
+                            },
+                            "message": {
+                                "text": "see reference to function template instantiation 'T *UWorld::GetGameInstance<UUViewModelFactory>(void) const' being compiled\n        with\n        [\n            T=UUViewModelFactory\n        ]"
+                            },
+                            "properties": {
+                                "nestingLevel": 1
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "file:///D:/Unreal Engine/UE_5.5/Engine/Source/Runtime/Engine/Classes/Engine/World.h"
+                                },
+                                "region": {
+                                    "startLine": 3983,
+                                    "startColumn": 10
+                                }
+                            },
+                            "message": {
+                                "text": "see reference to function template instantiation 'UUViewModelFactory *Cast<UUViewModelFactory,UGameInstance>(const TObjectPtr<UGameInstance> &)' being compiled"
+                            },
+                            "properties": {
+                                "nestingLevel": 1
+                            }
+                        }
+                    ]
+                }
+            ],
+            "tool": {
+                "driver": {
+                    "name": "MSVC",
+                    "shortDescription": {
+                        "text": "Microsoft Visual C++ Compiler Warnings/Errors"
+                    },
+                    "informationUri": "https://docs.microsoft.com/cpp/error-messages/compiler-errors-1/c-cpp-build-errors"
+                }
+            }
+        }
+    ]
+}

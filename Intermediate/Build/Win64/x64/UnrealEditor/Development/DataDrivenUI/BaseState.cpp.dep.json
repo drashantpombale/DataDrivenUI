@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\source\\datadrivenui\\private\\utilities\\basestate.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\datauiplugin\\intermediate\\build\\win64\\x64\\datauiplugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\datadrivenui\\definitions.datadrivenui.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\source\\datadrivenui\\public\\utilities\\basestate.h",
+            "d:\\unreal engine\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\unreal engine\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\unreal engine\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "d:\\unreal engine\\ue_5.5\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\unreal engine\\ue_5.5\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\unreal engine\\ue_5.5\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\source\\datadrivenui\\public\\interfaces\\uistate.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\intermediate\\build\\win64\\unrealeditor\\inc\\datadrivenui\\uht\\uistate.generated.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\intermediate\\build\\win64\\unrealeditor\\inc\\datadrivenui\\uht\\basestate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

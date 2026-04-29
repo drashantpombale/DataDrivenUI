@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\source\\datadrivenui\\private\\interfaces\\uieventlistener.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\datauiplugin\\intermediate\\build\\win64\\x64\\datauiplugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\datadrivenui\\definitions.datadrivenui.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\source\\datadrivenui\\public\\interfaces\\uieventlistener.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\source\\datadrivenui\\public\\interfaces\\baseevent.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\intermediate\\build\\win64\\unrealeditor\\inc\\datadrivenui\\uht\\baseevent.generated.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\intermediate\\build\\win64\\unrealeditor\\inc\\datadrivenui\\uht\\uieventlistener.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

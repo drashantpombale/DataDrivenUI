@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\source\\datadrivenui\\private\\interfaces\\uiview.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\datauiplugin\\intermediate\\build\\win64\\x64\\datauiplugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\datadrivenui\\definitions.datadrivenui.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\source\\datadrivenui\\public\\interfaces\\uiview.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\source\\datadrivenui\\public\\interfaces\\uiviewmodel.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\source\\datadrivenui\\public\\interfaces\\uiintent.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\intermediate\\build\\win64\\unrealeditor\\inc\\datadrivenui\\uht\\uiintent.generated.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\source\\datadrivenui\\public\\interfaces\\uistate.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\intermediate\\build\\win64\\unrealeditor\\inc\\datadrivenui\\uht\\uistate.generated.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\source\\datadrivenui\\public\\interfaces\\uimodel.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\intermediate\\build\\win64\\unrealeditor\\inc\\datadrivenui\\uht\\uimodel.generated.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\intermediate\\build\\win64\\unrealeditor\\inc\\datadrivenui\\uht\\uiviewmodel.generated.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\source\\datadrivenui\\public\\interfaces\\datacarrier.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\intermediate\\build\\win64\\unrealeditor\\inc\\datadrivenui\\uht\\datacarrier.generated.h",
+            "d:\\unrealprojects\\datauiplugin\\plugins\\datadrivenui\\intermediate\\build\\win64\\unrealeditor\\inc\\datadrivenui\\uht\\uiview.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
